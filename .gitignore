@@ -73,5 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+Content/Enviroment_Set/
+Content/Enviroment_Set/Enviroment/Foliage/Models
 Content/Enviroment_Set/*
-Content/Enviroment_Set/Foliage/*
